@@ -2,8 +2,12 @@ Oak
 Pine
 <<<<<<< HEAD
 Some info1
+<<<<<<< HEAD
 Some info2
 Some info3
 =======
 Some info1
 >>>>>>> parent of e613c39 (changed trees file 3)
+=======
+Some info2
+>>>>>>> parent of 2e901db (changed trees file 4)
